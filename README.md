@@ -2,7 +2,7 @@
 ===
     包含算法：
 
-    * _处理机调度(具体见 Pri_Scheduling)_
-    * _银行家算法(具体见 banker)_
-    * _磁盘调度(具体见 Disk)_
-    * _主存储器空间的分配和回收(具体见 MainMemory)_
+    * 处理机调度(具体见 Pri_Scheduling)
+    * 银行家算法(具体见 banker)
+    * 磁盘调度(具体见 Disk)
+    * 主存储器空间的分配和回收(具体见 MainMemory)
